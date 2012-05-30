@@ -1,0 +1,10 @@
+Package: jp.r-plus.confirmdictation
+Name: ConfirmDictation
+Depends: mobilesubstrate, firmware(>= 5.1), gsc.dictation
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: shows confirmation before dictation
+Maintainer: r_plus
+Author: r_plus
+Section: Tweaks
+dev: rplus
